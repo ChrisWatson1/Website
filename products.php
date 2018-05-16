@@ -1,23 +1,13 @@
-
-
+<?php
+	include 'extra/top.php';
+ ?>
 
 <form method="get" id="searchform" action="http://www.intellectus.com/">
-
 		<input type="text" value="Search" name="s" id="s" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
-
 <input type="submit" id="searchsubmit" value="Search" />
-</form></div><!-- /sub nav -->		</div>
+</form>
 
-
-<div id="content" class=" fix">
-		<div id="maincontent" class="fix">
-
-			<div class="post-13 page type-page status-publish hentry" id="post-13">
-			<div class="copy">
-
-									<h1 class="pagetitle">Products</h1>
-								<div class="entry">
-
+	<h1>Products</h1>
 					<h3><img class="aligncenter size-full wp-image-220" style="margin-top: 10px; margin-bottom: 10px;" title="Intellectus Solutions" src="../wp-content/uploads/2010/06/SecondaryHeaders18.jpg" alt="" width="578" height="233" />Our products. Your way.</h3>
 <p>Cut costs, speed up business processes, track and manage how well your work is done, using Intellectus’ powerful information management and business process management (BPM) solutions.</p>
 <p>Intellectus’ state of the art products incorporate Web services, XML and Xforms, so they are secure, fast and flexible. Service Oriented Architecture (SOA) flexible. Service Oriented</p>
@@ -34,106 +24,31 @@
 <p>Provides a flexible viewing platform for indexing and QC functions   iDesktop&#8217;s multiple panels allows users to process an entire batch of documents at one time, providing a speedy and complete imaging desktop. Like iScan, iDesktop is compatible with both ISIS and TWAIN scanners allowing the deletion and rescan of documents or the addition of missed images or documents to the batch.</p>
 <p>Start using Intellectus’ great product suite and watch your business flow with a new level of productivity and control. <a href="../contact/index.html">Contact us</a> today!</p>
 <h3><em>Intellectus. Your work. Your way.</em></h3>
-<p>&nbsp;</p>
-<h3 style="font-size: 12pt; font-weight: bold;">Section 508 Compliance Statement</h3>
+<h3>Section 508 Compliance Statement</h3>
 <p>Intellectus products are configurable to meet a wide range of requirements and needs including section 508 compliance.  Intellectus products include configurable menu options, text labels, screen resize and font selection capability. Designed for flexibility and ease of integration, all Intellectus products are configurable to meet the needs of people with diverse accessibility requirements. Creating accessible products is important to Intellectus, we understand the diverse employment needs of our global community. Accessibility and usability are good practices for all end users.  We strive to create products that are accessible to every person, including people with disabilities. Our solutions allow us to support the US government in making accessible information technology a reality.</p>
 
-									</div>
-			</div>
-		</div>
+<h4>Contact Us</h4>
+<p><strong>Intellectus</strong></p>
+<ul>
+	<li>All Locations</li>
+	<li>Toll Free: 1 866 558 0771</li>
+	<li>International: +1 703 439 1150</li>
+	<li>Fax: 440 425 1160</li>
+	<li><strong>Email:</strong> Sales@Intellectus.com</li>
+	<li><strong>Customer service:</strong></li>
+	<li> Email:  HelpDesk@Intellectus.com</li>
+	<li> Phone: 703 439 1160</li>
+</ul>
 
-	<div class="copy">
+	<h4>Intellectus News and Information</h4>
+	<ul>
+    <li> <strong>RAPID Workplace</strong> <a href="">Product Data Sheet</a></li>
+    <li> <strong>PROCESS Director</strong> <a href="">Product Data Sheet</a></li>
+    <li> <strong>Intellectus News</strong> <a href="">Intellectus Awarded $18M Contract</a></li>
+  </ul>
 
-		<div class="clear"></div>
-
-			</div>
-		</div>
-
-		<div id="sidebar" role="complementary">
-
-
-	<div id="widgets">
-
-
-
-
-
-
-			<div id="text-5" class="widget_text widget"><div class="winner"><h4 class="wtitle">Contact Us&nbsp;</h4><div class="wcontent">			<div class="textwidget"><p><strong>Intellectus</strong></p>
-<p>All Locations<br />
-Toll Free: 1 866 558 0771<br />
-International: +1 703 439 1150<br />
-Fax: 440 425 1160</p>
-<p><strong>Email:</strong> Sales@Intellectus.com</p>
-<p><strong>Customer service:</strong><br />
-Email:  HelpDesk@Intellectus.com<br />
-Phone: 703 439 1160</p>
-</div>
-		&nbsp;</div></div></div><div id="text-6" class="widget_text widget"><div class="winner"><h4 class="wtitle">Intellectus News and Information&nbsp;</h4><div class="wcontent">			<div class="textwidget"><table width="98%" border="0" cellspacing="3" cellpadding="0">
-  <tr>
-    <td bgcolor="#efefef"><strong>RAPID Workplace</strong></td>
-  </tr>
-  <tr>
-    <td><a href="../wp-content/uploads/2013/06/Intellectus-RAPIDWorkplace.pdf">Product Data Sheet</a></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td bgcolor="#EFEFEF"><strong>PROCESS Director</strong></td>
-  </tr>
-  <tr>
-    <td><a href="../wp-content/uploads/2013/06/Intellectus-ProcessDirector.pdf">Product Data Sheet</a></td>
-  </tr>
-  <tr>
-
- <tr>
-    <td bgcolor="#EFEFEF"><strong>Intellectus News</strong></td>
-  </tr>
-    <td><a href="../wp-content/uploads/2013/06/INT-FEMA_Success.pdf" target="_blank">Intellectus Awarded $18M Contract</a></td>
-  </tr>
-</table>
-</div>
-		&nbsp;</div></div></div>
-			</div>
-</div>
-
-<div class="hl"></div>
-<div class="post-footer pfooterdark">
-
-		<div class="right">
-			<span><a href="index.html#header">Go To Top &raquo;</a></span></div>
-	<div class="clear"></div>
-
-</div>
-<div class="hl2"></div></div></div><!-- end container -->
-</div> <!-- end content shadow fade -->
-</div><!-- end contentshadow -->
-<div class="shadowbottom"></div>
-
-
-		<div class="clear"></div>
-							<br/>
-			<div class="shadowtop"></div>
-			<div class="contentshadow">
-				<div class="container">
-			<div id="morefoot" class="fix">
-				<div id="morefootbg" class="fix">
-				<div class="wcontain fix">
-
-					<div class="widget">			<div class="textwidget"><a href="content-director/index.html"><img src='../wp-content/uploads/2011/03/contentdirector.jpg' alt='alt text' border="0" /></a></div>
-		</div>				</div>
-
-				<div class="wcontain">
-					<div class="widget">			<div class="textwidget"><a href="process-director/index.html"><img src='../wp-content/uploads/2010/08/processdirector.jpg' alt='alt text' border="0" /></a></div>
-		</div>				</div>
-
-				<div class="wcontain">
-					<div class="widget">			<div class="textwidget"><a href="rapid-workplace/index.html"><img src='../wp-content/uploads/2010/08/rapid.jpg' alt='Rapid Workplace' border="0" /></a></div>
-		</div>				</div>
-				</div>
-			</div><!-- Closes morefoot -->
-			</div><!-- end container -->
-			</div><!-- end contentshadow -->
-			<div class="shadowbottom"></div>
-		</div></div> <!-- end pagewraps -->
+<p><a href="index.html#header">Go To Top </a></p>
+</article>
+<?php
+  include 'extra/footer.php';
+?>
