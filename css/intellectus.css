@@ -1,13 +1,31 @@
 body{
+
 }
 article {
+    border: solid thick green;
 }
 
 p{
+   border: solid thick blue;
 }
 
 ul{
+    border: solid thick purple;
 }
 
 li{
+    border: solid thick pink;
+}
+
+div{
+    border: solid thick red;
+}
+
+img{
+    border: solid thick orange;
+}
+
+form{
+    border: solid thick yellow;
+
 }
