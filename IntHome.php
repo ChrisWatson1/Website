@@ -29,7 +29,6 @@
 
 <article class="center">
 <h4>Contact Us</h4>
-<strong>Intellectus</strong>
 <ul>
 	<li>All Locations</li>
 	<li>Toll Free: 1 866 558 0771</li>

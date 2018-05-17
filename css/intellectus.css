@@ -59,6 +59,9 @@ aside{
 
 #INT ul{
     border: none;
+    text-align: left;
+    width: 400px;
+    margin: auto;
 }
 
 #INT li{
@@ -102,4 +105,6 @@ aside{
 #INT .center{
    text-align: center;
    margin: auto;
+   border: none;
+   margin: 0.5em;
 }
