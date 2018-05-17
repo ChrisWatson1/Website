@@ -1,5 +1,6 @@
 <?php
 	include 'extra/top.php';
+	include 'extra/aside.php';
  ?>
  <article class= 'main'>
 									<h2>Content Director</h2>
@@ -23,9 +24,7 @@
 <h3>Use Content Director with your existing document library.</h3>
 <p>Already have documents stored electronically? Designed with an open architecture, Content Director can link to your existing document repository. You can harness Content Director’s powerful organization and search features while maintaining your investment in the electronic document repository you already have.</p>
 </article>
-<?php
-		include 'extra/aside.php';
-?>
+
 
   <?php
       include 'extra/footer.php';

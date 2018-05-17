@@ -1,7 +1,7 @@
 
         <nav class="nav">
 <ul>
-  <li><a href="home.php">Home</a>Home</li>
+  <li><a href="home.php">Home</a></li>
   <li><a href="about.php">About Intellectus</a></li>
   <li><a href="products.php">Products</a>
     <ul>

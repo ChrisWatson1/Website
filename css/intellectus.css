@@ -1,6 +1,68 @@
+
 body{
 
 }
+
+/*----------------- nav ------------*/
+
+nav {
+
+}
+
+nav li {
+     display: inline-block;
+     list-style-type: none;
+}
+
+nav li ul {
+    display:none;
+}
+
+nav li:hover ul{
+    display:block;
+
+}
+/*----------------- aside ------------*/
+aside{
+    width: 25%;
+    display: inline-block;
+}
+
+/*----------------- footer ------------*/
+footer figure{
+    display: inline-block;
+}
+/*----------------- basic ------------*/
+ .main {
+    width: 65%;
+    display: inline-block;
+}
+article {
+    padding: 1em;
+    margin: 1em;
+}
+
+p{
+    padding: 1em;
+    margin: 1em;
+}
+
+ul{
+    padding: 1em;
+    margin: 1em;
+}
+
+li{
+    padding: 0.5em;
+    list-style-type: none;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+/* debug 
 
 article {
     border: solid thick green;
@@ -35,6 +97,7 @@ aside{
   border: solid thick teal;
 }
 
+*/
 /* INT PAGE */
 #INT{
     font-size: 24px;

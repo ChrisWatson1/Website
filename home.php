@@ -1,5 +1,6 @@
 <?php
 	include 'extra/top.php';
+	include 'extra/aside.php';
  ?>
 	<h3>Intelligent Business Solutions</h3>
 
@@ -24,6 +25,6 @@
 
 
 <?php
-		include 'extra/aside.php';
+
 		include 'extra/footer.php';
 ?>

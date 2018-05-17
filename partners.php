@@ -1,5 +1,6 @@
 <?php
 	include 'extra/top.php';
+	include 'extra/aside.php';
  ?>
 									<h2>Partners</h2>
 
@@ -14,6 +15,6 @@
 <h3>Intellectus. Your work. Your way.</h3>
 
 				<?php
-				  include 'extra/aside.php';
+
 				  include 'extra/footer.php';
 				?>

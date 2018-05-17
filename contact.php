@@ -1,5 +1,6 @@
 <?php
 	include 'extra/top.php';
+	include 'extra/aside.php';
  ?>
 									<h2>Contact</h2>
 <figure><img src="images/contact.jpg" alt=""></figure>
@@ -44,6 +45,5 @@
 <p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
 
 <?php
-  	include 'extra/aside.php';
 		include 'extra/footer.php';
 	?>

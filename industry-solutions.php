@@ -1,5 +1,6 @@
 <?php
   include 'extra/top.php';
+  include 'extra/aside.php';
 ?>
 
 <article class = "main">
@@ -23,6 +24,6 @@
 <h2>Intellectus. Improving business Intelligence.</h3>
 </article>
 <?php
-  include 'extra/aside.php';
+
   include 'extra/footer.php';
 ?>
