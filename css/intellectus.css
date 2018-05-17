@@ -36,39 +36,47 @@ aside{
 }
 
 /* INT PAGE */
-body{
-
+#INT{
+    font-size: 24px;
+    background-color:grey;
 }
 
-article {
-    border: none;
+#INT article {
+    border: double black;
+    padding: 1em;
+    margin: 1em;
+    background-color:white;
 }
 
-p{
+#INT figure{
+    border-bottom: thick black;
+}
+#INT p{
    border: none;
+   padding 0.5em;
+   margin 1em;
 }
 
-ul{
+#INT ul{
     border: none;
 }
 
-li{
+#INT li{
     border: none;
 }
 
-div{
+#INT div{
     border: none;
 }
 
-img{
+#INT img{
     border: none;
 }
 
-form{
+#INT form{
     border: none;
-
 }
 
-aside{
+#INT aside{
   border: none;
 }
