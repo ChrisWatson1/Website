@@ -2,9 +2,8 @@
 <html lang="en">
 
 <head>
-	<title> Tag Sorting Demo </title>
+	<title> Intellectus </title>
 
-  <link href="images/icon.png" rel="icon">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="Zoe Watson">
@@ -20,7 +19,8 @@
 
 <article>
 
-	<figure> <img src="SecondaryHeaders16.jpg" alt="" />Intelligent Business Solutions </figure>
+	<figure> <img src="SecondaryHeaders16.jpg" alt="" /></figure>
+	<h3> Intelligent Business Solutions </h3>
 
 	<p>Intellectus was founded as an <strong>On Demand, Business Solutions Company </strong>to help government agencies and commercial clients increase efficiency, reduce costs, and provide better services.</p>
 	<p>We have extensive experience helping agencies and companies solve company critical business requirements by providing products and services that deliver real-time, targeted business solutions.</p>
