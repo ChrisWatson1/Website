@@ -15,11 +15,11 @@
 </head>
 
 <body id ="INT">
-<h1> <img src="header.png" alt="Intellectus" /> </h1>
+<h1> <img src="images/header.png" alt="Intellectus" /> </h1>
 
 <article>
 
-	<figure> <img src="SecondaryHeaders16.jpg" alt="" /></figure>
+	<figure> <img src="images/SecondaryHeaders16.jpg" alt="" /></figure>
 	<h3> Intelligent Business Solutions </h3>
 
 	<p>Intellectus was founded as an <strong>On Demand, Business Solutions Company </strong>to help government agencies and commercial clients increase efficiency, reduce costs, and provide better services.</p>
