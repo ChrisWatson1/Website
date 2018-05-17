@@ -38,7 +38,7 @@ aside{
 /* INT PAGE */
 #INT{
     font-size: 24px;
-    background-color:grey;
+    background-color:#939899;
 }
 
 #INT article {
@@ -71,8 +71,21 @@ aside{
 
 #INT img{
     border: none;
+    margin: auto;
+    text-align:center;
 }
 
+#INT figure{
+    text-align: center;
+}
+
+#INT h1{
+    text-align:center;
+}
+
+#INT h1 img{
+    width: 100%;
+}
 #INT form{
     border: none;
 }
