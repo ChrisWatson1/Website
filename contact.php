@@ -1,30 +1,30 @@
 <?php
 	include 'extra/top.php';
  ?>
-									<h1 class="pagetitle">Contact</h1>
-								<div class="entry">
+									<h2>Contact</h2>
+<figure><img src="images/contact.jpg" alt=""></figure>
 
-					<p style="text-align: center;"><img class="aligncenter size-full wp-image-177" style="margin-top: 10px; margin-bottom: 10px;" title="Contact Intellectus" src="../wp-content/uploads/2010/06/contact.jpg" alt="" width="578" height="233" /></p>
-<table style="width: 500px;" border="0" cellpadding="5">
-<tbody>
+<table>
+
 <tr>
-<td><span style="font-size: 13px; line-height: 19px;"><strong>Northern Virginia</strong><br />
-14220 Sullyfield Circle, Suite A<br />
-Chantilly, VA 20151<br />
-</span></td>
-<td><span style="font-size: 13px; line-height: 19px;"><strong>Customer service:</strong></span><span style="font-size: 13px; line-height: 19px;"> <strong>Email:</strong> HelpDesk@Intellectus.com<br />
-<strong>Phone:</strong> 703 439 1160</span></td>
-</tr>
+<th>Northern Virginia</th>
+<td>14220 Sullyfield Circle, Suite A</td>
+<td>Chantilly, VA 20151</td>
+
 <tr>
-<td><span style="font-size: 13px; line-height: 19px;"><strong>Charleston, South Carolina<br />
-</strong></span><span style="font-size: 13px; line-height: 19px;">300 Bucksley Lane, Suite 305</span><span style="font-size: 13px; line-height: 19px;"> Charleston, SC 29492</span></td>
-<td></td>
+<th>Customer service:
+<td> Email: HelpDesk@Intellectus.com</td>
+<td> Phone: 703 439 1160 </td>
 </tr>
-</tbody>
+
+<tr>
+<th>Charleston, South Carolina</th>
+<td>300 Bucksley Lane, Suite 305</td>
+<td>Charleston, SC 29492</td>
+</tr>
+
 </table>
-<h2><img class="aligncenter size-full wp-image-182" title="Intellectus" src="../wp-content/uploads/2010/06/divider-dots.png" alt="" width="579" height="45" />Email Us:</h2>
-<div class="wpcf7" id="wpcf7-f302-p10-o1" dir="ltr">
-<div class="screen-reader-response"></div>
+
 <form action="/contact/#wpcf7-f302-p10-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="302" />
@@ -44,8 +44,6 @@ Chantilly, VA 20151<br />
 <p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
 
 <?php
-  include 'extra/aside.php';
-?>
-		<?php
-				include 'extra/footer.php';
-		?>
+  	include 'extra/aside.php';
+		include 'extra/footer.php';
+	?>

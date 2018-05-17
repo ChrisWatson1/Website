@@ -2,33 +2,53 @@
 <html lang="en">
 
 <head>
-  <link href="images/icon.png" rel="icon">
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  // %^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%
-        //
-        // PATH SETUP
-        //
-
-     $domain = '//';
-
-     $server = htmlentities($_SERVER['SERVER_NAME'], ENT_QUOTES, 'UTF-8');
-
-     $domain .= $server;
-
-        if ($debug) {
-
-            print '<p>php Self: ' . $phpSelf;
-            print '<p>Path Parts<pre>';
-            print_r($path_parts);
-            print '</pre></p>';
 
   <?php
+
   print '<title>';
-  About Intellectus
+  if ($path_parts['filename'] == "about")
+  { print 'About Intellectus';
+
+  }elseif($path_parts['filename'] == "contact")
+  { print 'Contact';
+
+  }elseif($path_parts['filename'] == "contact-director")
+  { print 'Content Director';
+
+  }elseif($path_parts['filename'] == "home")
+  { print 'Intellectus';
+
+  }elseif($path_parts['filename'] == "industry-solutions")
+  { print 'Innovative Solutions';
+
+  }elseif($path_parts['filename'] == "partners")
+  { print 'Partners';
+
+  }elseif($path_parts['filename'] == "process-director")
+  { print 'Process Director';
+
+  }elseif($path_parts['filename'] == "products")
+  {print 'Products';
+
+  }elseif($path_parts['filename'] == "public-sector")
+  {print 'Public Sector';
+
+  }elseif($path_parts['filename'] == "rapid-workplace")
+  {print "RAPID workplace";
+
+  }elseif($path_parts['filename'] == "services")
+  { print 'services';
+  }
+
   print '</title>';
     ?>
+
+  <meta charset="UTF-8">
+  <meta name="author" content="Zoe Watson">
+  <meta name="description" content="Intellectus was founded as an On Demand, Business Solutions Company to help government agencies and commercial clients increase efficiency, reduce costs, and provide better services.
+We have extensive experience helping agencies and companies solve company critical business requirements by providing products and services that deliver real-time, targeted business solutions.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="images/icon.png" type="image/png">
   <!-- Stylesheets -->
   <link rel="stylesheet" href="css/intellectus.css" type="text/css" media="screen" />
   <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
