@@ -1,6 +1,7 @@
 body{
 
 }
+
 article {
     border: solid thick green;
 }
@@ -28,4 +29,46 @@ img{
 form{
     border: solid thick yellow;
 
+}
+
+aside{
+  border: solid thick teal;
+}
+
+/* INT PAGE */
+body{
+
+}
+
+article {
+    border: none;
+}
+
+p{
+   border: none;
+}
+
+ul{
+    border: none;
+}
+
+li{
+    border: none;
+}
+
+div{
+    border: none;
+}
+
+img{
+    border: none;
+}
+
+form{
+    border: none;
+
+}
+
+aside{
+  border: none;
 }

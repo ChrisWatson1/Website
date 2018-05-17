@@ -1,3 +1,2 @@
-<body id="about">
 
-<a class="home" href="../index.html" title="Intellectus"><img src="../images/header.png" alt="Intellectus" /></a>
+<h1> <a class="home" href="home.php" title="Intellectus"><img src="images/header.png" alt="Intellectus" /></a> </h1>
