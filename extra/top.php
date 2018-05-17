@@ -50,7 +50,7 @@ We have extensive experience helping agencies and companies solve company critic
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="images/icon.png" type="image/png">
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="css/intellectus.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="css/intellectusNOPE.css" type="text/css" media="screen" />
   <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
 </head>
 
