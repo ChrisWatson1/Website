@@ -1,4 +1,4 @@
-<p><a href="index.html#header">Go To Top </a></p>
+<p><a href="#header">Go To Top </a></p>
 
 <footer>
   <figure><a href="content-director.php"><img src='images/contentdirector.jpg' alt='' ></a></figure>

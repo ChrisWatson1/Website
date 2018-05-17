@@ -26,6 +26,7 @@ nav li:hover ul{
 aside{
     width: 25%;
     display: inline-block;
+    float: right;
 }
 
 /*----------------- footer ------------*/
@@ -36,6 +37,8 @@ footer figure{
  .main {
     width: 65%;
     display: inline-block;
+    margin:auto;
+
 }
 article {
     padding: 1em;
@@ -62,7 +65,7 @@ img{
     max-width: 100%;
 }
 
-/* debug 
+/* debug
 
 article {
     border: solid thick green;
