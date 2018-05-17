@@ -63,6 +63,7 @@ aside{
 
 #INT li{
     border: none;
+    padding: 0.25em;
 }
 
 #INT div{
@@ -92,4 +93,13 @@ aside{
 
 #INT aside{
   border: none;
+}
+
+#INT h3{
+  text-align: center;
+}
+
+#INT .center{
+   text-align: center;
+   margin: auto;
 }

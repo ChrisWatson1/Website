@@ -27,8 +27,9 @@
 	<p>To learn more about our services, contact us at 703.439.1150 or info@intellectus.com today to learn why organizations from 50 to over 500,000 people rely on us to power their global success</p>
 	<p>Contact our sales team at 703 439 1140 today to learn why organizations from 50 to over 500,000 people rely on us to power their global success.</p>
 
+<p class="center">
 <h4>Contact Us</h4>
-<p><strong>Intellectus</strong></p>
+<strong>Intellectus</strong>
 <ul>
 	<li>All Locations</li>
 	<li>Toll Free: 1 866 558 0771</li>
@@ -40,6 +41,7 @@
 	<li> Phone: 703 439 1160</li>
 </ul>
 
+</p>
 </article>
 
 </body>
