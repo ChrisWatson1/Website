@@ -1,6 +1,6 @@
 
         <nav class="nav">
-<ul>
+<ul class="dropdown">
   <li><a href="home.php">Home</a></li>
   <li><a href="about.php">About Intellectus</a></li>
   <li class="hover"><a href="products.php">Products</a>
