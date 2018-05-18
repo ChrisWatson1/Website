@@ -1,6 +1,5 @@
 <?php
   include 'extra/top.php';
-
 ?>
 
 <article class="main">
@@ -27,6 +26,6 @@ Intellectus has saved time and money for a variety of government clients with ou
 </article>
 
 <?php
-  include 'extra/aside.php'
+  include 'extra/aside.php';
   include 'extra/footer.php';
 ?>

@@ -28,6 +28,8 @@
 
 
 <?php
+		include 'about.php';
+		include 'contact.php';
 		include 'extra/aside.php';
 		include 'extra/footer.php';
 ?>

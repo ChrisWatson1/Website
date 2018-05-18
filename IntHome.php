@@ -11,15 +11,15 @@
 
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="css/intellectus.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="intellectus.css" type="text/css" media="screen" />
 </head>
 
 <body id ="INT">
-<h1> <img src="images/header.png" alt="Intellectus" /> </h1>
+<h1> <img src="header.png" alt="Intellectus" /> </h1>
 
 <article>
 
-	<figure> <img src="images/SecondaryHeaders16.jpg" alt="" /></figure>
+	<figure> <img src="SecondaryHeaders16.jpg" alt="" /></figure>
 	<h3> Intelligent Business Solutions </h3>
 
 	<p>Intellectus is an <strong>On Demand, Business Solutions Company </strong>helping government agencies and commercial clients increase efficiency, reduce costs, and provide better services.</p>
@@ -29,10 +29,10 @@
 	<p> Contact us at 703.439.1150 or info@intellectus.com today to learn why organizations from 50 to over ten million people rely on us to power their global success</p>
 
 	<h3> Intellectus </h3>
-
-	<p> 14220 Sullyfield Circle, Suite A <br>
-	Chantilly VA 20151 </p>
-
+<ul>
+<li> 14220 Sullyfield Circle, Suite A </li>
+<li>Chantilly VA 20151 </li>
+</ul>
 <article class="center">
 <h4>Contact Us</h4>
 <ul>

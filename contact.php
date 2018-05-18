@@ -1,11 +1,5 @@
-<?php
-	include 'extra/top.php';
- ?>
-
  <article class="main">
 									<h2>Contact</h2>
-<figure><img src="images/contact.jpg" alt=""></figure>
-
 <table>
 
 <tr>
@@ -27,8 +21,3 @@
 
 </table>
 </article>
-
-<?php
-    include 'extra/aside.php';
-		include 'extra/footer.php';
-	?>

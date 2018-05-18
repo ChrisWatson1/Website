@@ -1,8 +1,3 @@
-<?php
-	include 'extra/top.php';
-
- ?>
-
 <article class= "main">
 
 <h2>About Intellectus</h2>
@@ -15,8 +10,3 @@
 <p>To learn more about our services, contact us at 703.439.1150 or info@intellectus.com today to learn why organizations from 50 to over 500,000 people rely on us to power their global success</p>
 <p>Contact our sales team at 703 439 1140 today to learn why organizations from 50 to over 500,000 people rely on us to power their global success.</p>
 </article>
-
-<?php
-	include 'extra/aside.php';
-  include 'extra/footer.php';
-?>
