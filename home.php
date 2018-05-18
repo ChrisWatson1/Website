@@ -24,7 +24,7 @@
 
 <h3>Your Business, Your Way </h3>
 <p>Intellectus delivers products and services solving essential business needs and delivering customer focused solutions.  We provide services ranging from cost effective business outsourcing to assisting clients with improving  internal business operations.<br>
-<a href="about.php">Learn More </a>»</p>
+</p>
 
 <h3>Results Driven Success</h3>
 <p> Committed to delivering innovation, Intellectus works with its clients to help them identify areas for reducing operational inefficiencies, drive process improvements, and achieve high performance. Working in partnership with our clients, Intellectus' professionals pair strategic acumen with strong execution to achieve results.</p>

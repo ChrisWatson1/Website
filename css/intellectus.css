@@ -77,8 +77,15 @@ aside{
 
 /*----------------- header ------------*/
 .head img{
-    width:100%;
-    min-height: 50px;
+    max-width: 100px;
+}
+.head{
+    background-color:#848a8c;
+}
+.head h1 a{
+    color: white;
+    text-decoration: none;
+
 }
 /*----------------- footer ------------*/
 
