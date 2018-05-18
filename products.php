@@ -34,7 +34,7 @@ automates and manages any sequence of tasks. Once someone signs off on a step, t
 </article>
 <?php
 	include 'extra/aside.php';
-	inculde 'services.php'
+	inculde 'services.php';
 	?>
 	</article>
 

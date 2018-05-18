@@ -65,7 +65,7 @@ $path_parts = pathinfo($phpSelf);
   <meta name="description" content="Intellectus was founded as an On Demand, Business Solutions Company to help government agencies and commercial clients increase efficiency, reduce costs, and provide better services.
 We have extensive experience helping agencies and companies solve company critical business requirements by providing products and services that deliver real-time, targeted business solutions.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="images/icon.png" type="image/png">
+  <link rel="icon" href="images/logo.png" type="image/png">
   <!-- Stylesheets -->
   <link rel="stylesheet" href="css/intellectus.css" type="text/css" media="screen" />
   <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
