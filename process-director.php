@@ -1,8 +1,8 @@
 <?php
 	include 'extra/top.php';
-	include 'extra/aside.php'
+
  ?>
-<article class = " main">
+<article class = "main">
 			<h2>Process Director</h2>
 			<figure><img  src="images/process2.jpg" alt="Process Director"></figure>
 				<h3> Your Process. Your Way.</h3>
@@ -24,5 +24,6 @@
 
 </article>
 		<?php
+		include 'extra/aside.php'
 	  include 'extra/footer.php';
 	?>

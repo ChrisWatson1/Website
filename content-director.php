@@ -1,6 +1,6 @@
 <?php
 	include 'extra/top.php';
-	include 'extra/aside.php';
+
  ?>
  <article class= 'main'>
 									<h2>Content Director</h2>
@@ -27,5 +27,6 @@
 
 
   <?php
+			include 'extra/aside.php';
       include 'extra/footer.php';
   ?>

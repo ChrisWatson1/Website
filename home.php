@@ -1,7 +1,9 @@
 <?php
 	include 'extra/top.php';
-	include 'extra/aside.php';
+
  ?>
+
+ <article class="main">
 	<h3>Intelligent Business Solutions</h3>
 
 	<p>Committed to delivering innovation, Intellectus works with our clients helping them identify areas for reducing operational inefficiencies, drive process improvements, and achieve high performance.  </p>
@@ -21,10 +23,11 @@
 <p> Committed to delivering innovation, Intellectus works with its clients to help them identify areas for reducing operational inefficiencies, drive process improvements, and achieve high performance. Working in partnership with our clients, Intellectus' professionals pair strategic acumen with strong execution to achieve results.</p>
 
 			<h3>Public Sector</h3>
-				<p><a href="public-sector.php"><img src="images/fema1.jpg" ></a></p>
+			<p><a href="public-sector.php"><img src="images/fema1.jpg" ></a></p>
+		</article>
 
 
 <?php
-
+		include 'extra/aside.php';
 		include 'extra/footer.php';
 ?>

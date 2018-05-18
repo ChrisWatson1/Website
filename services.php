@@ -1,8 +1,8 @@
 <?php
   include 'extra/top.php';
-    include 'extra/aside.php';
-?>
 
+?>
+<article class="main">
 <h2>Services</h2>
 
 <figure><img src="images/workplace.jpg" alt=""></figure>
@@ -25,6 +25,8 @@
 <h3>Document Imaging Solutions</h3>
 <p>Intellectus is a provider of quality document imaging that affords our clients the ability to conveniently convert paper documents to electronic data files and store on diskettes or archive them in Intellectus&#8217; Content Director Online. Intellectus&#8217; scan service division is available for on-site scanning or pickup for process at our production facility.  Images are indexed to our customers needs and exported in PDF format for easy access.  And, if a file is needed while documents are in production&#8230;Intellectus is second to none when responding to our clients needs.</p>
 
+</article>
 <?php
+  include 'extra/aside.php';
   include 'extra/footer.php';
 ?>

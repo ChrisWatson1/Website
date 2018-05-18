@@ -1,7 +1,8 @@
 <?php
 	include 'extra/top.php';
-	include 'extra/aside.php';
  ?>
+
+ <article class="main">
 									<h2>Contact</h2>
 <figure><img src="images/contact.jpg" alt=""></figure>
 
@@ -25,7 +26,9 @@
 </tr>
 
 </table>
+</article>
 
 <?php
+    include 'extra/aside.php';
 		include 'extra/footer.php';
 	?>

@@ -1,6 +1,6 @@
 <?php
 	include 'extra/top.php';
-	include 'extra/aside.php';
+
  ?>
 <article class="main">
 	<h2>Products</h2>
@@ -32,5 +32,6 @@ automates and manages any sequence of tasks. Once someone signs off on a step, t
 
 </article>
 <?php
+	include 'extra/aside.php';
   include 'extra/footer.php';
 ?>

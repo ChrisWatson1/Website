@@ -1,7 +1,9 @@
 <?php
 	include 'extra/top.php';
-	include 'extra/aside.php';
+
  ?>
+
+ <article class="main">
 									<h2>Partners</h2>
 
 <figure><img src="images/SecondaryHeaders15.jpg" alt="Intellectus Solutions" /></figure>
@@ -13,8 +15,8 @@
 <h3>Faster than the speed of business.</h3>
 <p>Find out why Intellectus solutions are the right choice for your business. <a href="contact.php">Contact us</a> to discuss your affordable, easy to deploy Intellectus solution today.</p>
 <h3>Intellectus. Your work. Your way.</h3>
-
+</article>
 				<?php
-
+					include 'extra/aside.php';
 				  include 'extra/footer.php';
 				?>
