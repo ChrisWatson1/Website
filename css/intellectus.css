@@ -93,7 +93,9 @@ article {
 /* ---------------- basic -----------------*/
 
 body{
-    background-image: url("http://cdns2.freepik.com/free-photo/_23-2147507443.jpg")
+    background-image: url("../images/image2.png");
+    max-width: 95%;
+    margin: auto;
 }
 p{
     padding: 1em;
