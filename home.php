@@ -2,7 +2,7 @@
 	include 'extra/top.php';
 
  ?>
-
+ <article class="all">
  <article class="main">
 	<h3>Intelligent Business Solutions</h3>
 
@@ -31,5 +31,9 @@
 		include 'about.php';
 		include 'contact.php';
 		include 'extra/aside.php';
+?>
+</article>
+
+<?php
 		include 'extra/footer.php';
 ?>

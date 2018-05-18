@@ -2,6 +2,7 @@
 	include 'extra/top.php';
 
  ?>
+  <article class="all">
 <article class = "main">
 			<h2>Process Director</h2>
 			<figure><img  src="images/process2.jpg" alt="Process Director"></figure>
@@ -25,5 +26,9 @@
 </article>
 		<?php
 		include 'extra/aside.php'
+		?>
+		</article>
+
+		<?php
 	  include 'extra/footer.php';
 	?>

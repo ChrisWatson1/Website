@@ -1,0 +1,75 @@
+
+/* INT PAGE */
+#INT{
+    font-size: 16px;
+    background-color:#ebebeb;
+}
+
+#INT article {
+    border: double black;
+    padding: 0.5em;
+    margin: 0.5em;
+    background-color:white;
+}
+
+#INT figure{
+    border-bottom: thick black;
+}
+#INT p{
+   border: none;
+   padding 0.5em;
+   margin 1em;
+}
+
+#INT ul{
+    border: none;
+    text-align: left;
+    width: 400px;
+    margin: auto;
+}
+
+#INT li{
+    border: none;
+    padding: 0.25em;
+}
+
+#INT div{
+    border: none;
+}
+
+#INT img{
+    border: none;
+    margin: auto;
+    text-align:center;
+    max-width: 100%;
+}
+
+#INT figure{
+    text-align: center;
+}
+
+#INT h1{
+    text-align:center;
+}
+
+#INT h1 img{
+    width: 100%;
+}
+#INT form{
+    border: none;
+}
+
+#INT aside{
+  border: none;
+}
+
+#INT h3{
+  text-align: center;
+}
+
+#INT .center{
+   text-align: center;
+   margin: auto;
+   border: none;
+   margin: 0.5em;
+}

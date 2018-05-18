@@ -2,6 +2,7 @@
 	include 'extra/top.php';
 
  ?>
+ <article class="all">
 <article class="main">
 	<h2>Products</h2>
 	<figure><img src="images/SecondaryHeaders18.jpg" alt="Intellectus Solutions"> </figure>
@@ -33,5 +34,9 @@ automates and manages any sequence of tasks. Once someone signs off on a step, t
 </article>
 <?php
 	include 'extra/aside.php';
+	?>
+	</article>
+
+	<?php
   include 'extra/footer.php';
 ?>

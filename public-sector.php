@@ -2,6 +2,7 @@
   include 'extra/top.php';
 ?>
 
+<article class="all">
 <article class="main">
 <h2>Public Sector</h2>
 
@@ -27,5 +28,9 @@ Intellectus has saved time and money for a variety of government clients with ou
 
 <?php
   include 'extra/aside.php';
+  ?>
+  </article>
+
+  <?php
   include 'extra/footer.php';
 ?>
