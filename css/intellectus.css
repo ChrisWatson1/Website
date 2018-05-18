@@ -64,17 +64,21 @@ nav li {
 
 /*----------------- aside ------------*/
 aside{
+    max-width: 300px;
     width: 24%;
     display: inline-block;
     margin: 1em;
     margin-left: 0px;
     padding: 0.25em;
     position: absolute;
-    background-color: whitesmoke;
+    background-color: white;
 
 }
 
+/*----------------- header ------------*/
+
 /*----------------- footer ------------*/
+
 footer figure{
 }
 /*----------------- article------------*/
@@ -86,16 +90,17 @@ footer figure{
 }
 article {
     padding: 0.5em;
-    margin: 1em;
-    background-color: whitesmoke;
+    margin: 1em 0em;
+    background-color: white;
 }
 
 /* ---------------- basic -----------------*/
 
 body{
-    background-image: url("../images/image2.png");
-    max-width: 95%;
+    max-width: 1000px;
     margin: auto;
+    background-color: whitesmoke;
+
 }
 p{
     padding: 1em;

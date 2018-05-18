@@ -73,6 +73,10 @@ We have extensive experience helping agencies and companies solve company critic
 
 <?php
 print '<body id="' . $path_parts['filename'] . '">';
+?>
+<article class="head">
+<?php
 include 'extra/header.php';
 include 'extra/nav.php';
  ?>
+</article>
