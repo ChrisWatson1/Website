@@ -6,9 +6,9 @@
   { print 'class="sel"';} ?> >Home</a></li>
 
 
-  <li class="hover" <?php if( ($path_parts['filename'] == "products") ||  ($path_parts['filename'] == "process-director")
+  <li class="hover <?php if( ($path_parts['filename'] == "products") ||  ($path_parts['filename'] == "process-director")
   || ($path_parts['filename'] == "rapid-workplace") ||  ($path_parts['filename'] == "contact-director") || ($path_parts['filename'] == "industry-solutions") )
-  {print ' sel';  }?> ><a href="products.php">Products and Services</a>
+  {print ' sel';  }?> >"<a href="products.php">Products and Services</a>
 
     <ul class="hide">
       <li><a href="process-director.php" <?php if($path_parts['filename'] == "process-director")

@@ -20,6 +20,13 @@ nav a{
 
 }
 
+.sel {
+    text-decoration:underline;
+}
+
+.sel ul{
+  display: inline;
+}
 nav a:hover{
     text-decoration:underline;
 }
