@@ -89,7 +89,8 @@ aside{
 }
 /*----------------- footer ------------*/
 
-footer figure{
+footer {
+    clear: both;
 }
 /*----------------- article------------*/
  .main {
@@ -110,8 +111,7 @@ article {
 
 .box{
     width: 25%;
-    display: inline-block;
-
+    float: left;
 }
 
 /* ---------------- basic -----------------*/
