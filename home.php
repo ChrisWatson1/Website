@@ -21,7 +21,7 @@
 			<figure>
 						<img src="images/featureIMG2.jpg" alt="Government Contracts" />
 		 </figure>
-<article>
+	</article>
 
 <article class ='box'>
 <h3>Your Business, Your Way </h3>

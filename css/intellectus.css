@@ -109,7 +109,9 @@ article {
 }
 
 .box{
-    float: left;
+    display: inline;
+    width: 150px;
+    color: green;
 
 }
 
