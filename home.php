@@ -3,14 +3,12 @@
 
  ?>
  <article class="all">
- <article class="main">
 
 	 <?php
 	 		include 'about.php';
 	 		include 'extra/aside.php';
-			include 'contact.php';
 	 ?>
-
+ <article class="main home">
 	<h3>Intelligent Business Solutions</h3>
 
 	<p>Committed to delivering innovation, Intellectus works with our clients helping them identify areas for reducing operational inefficiencies, drive process improvements, and achieve high performance.  </p>

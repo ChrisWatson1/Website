@@ -3,7 +3,7 @@
 
 ?>
 <article class = "all">
-<article class = "main">
+<article class = "main industry-solutions">
 <h2>Innovative Solutions</h2>
 
 

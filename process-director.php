@@ -3,7 +3,7 @@
 
  ?>
   <article class="all">
-<article class = "main">
+<article class = "main process-Director">
 			<h2>Process Director</h2>
 			<figure><img  src="images/process2.jpg" alt="Process Director"></figure>
 				<h3> Your Process. Your Way.</h3>

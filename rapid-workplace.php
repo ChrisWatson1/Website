@@ -3,7 +3,7 @@
 
 ?>
 <article class="all">
-<article class="main">
+<article class="main rapid-workplace">
 
 		<h2>RAPID Workplace</h2>
 

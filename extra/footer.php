@@ -1,4 +1,4 @@
-<p><a href="#header">Go To Top </a></p>
+<p class='toTOP'><a href="#top">Go To Top </a></p>
 
 <footer>
 

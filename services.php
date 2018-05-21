@@ -1,5 +1,5 @@
 
-<article class="main">
+<article class="main services">
 <h2>Services</h2>
 
 <figure><img src="images/workplace.jpg" alt=""></figure>

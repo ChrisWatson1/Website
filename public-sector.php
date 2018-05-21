@@ -3,7 +3,7 @@
 ?>
 
 <article class="all">
-<article class="main">
+<article class="main Public-Sector">
 <h2>Public Sector</h2>
 
 <figure> <img alt="" src="images/gov.jpg"> </figure>

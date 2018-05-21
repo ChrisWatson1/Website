@@ -3,7 +3,7 @@
 
  ?>
  <article class="all">
-<article class="main">
+<article class="main products">
 	<h2>Products</h2>
 	<figure><img src="images/SecondaryHeaders18.jpg" alt="Intellectus Solutions"> </figure>
 	<h3>Our products. Your way.</h3>

@@ -1,4 +1,4 @@
-<article class= "main">
+<article class= "main about">
 
 <h2>About Intellectus</h2>
 
