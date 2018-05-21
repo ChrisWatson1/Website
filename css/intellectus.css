@@ -133,12 +133,28 @@ article {
        display: inline;
     }
 
-    .main{
+    .all{
         display: block;
         width: 100%;
     }
+
+    .main{
+        width: 100%;
+    }
     .box{
+        width: 95%;
+
+    }
+
+    .nav li{
         display: block;
+    }
+    .nav{
+        text-align: center;
+    }
+
+    .toTOP{
+        float:none;
     }
 
 
