@@ -119,10 +119,18 @@ article {
     float: left;
 }
 /*---------------resize ----------------- */
+.moblie{
+  display: none;
+}
 @media only screen and (max-width: 600px) {
     aside{
-        color: blue;
-        display: block;
+        display: none;
+    }
+    .moblie{
+      display: block;
+    }
+    .moblie p{
+       display: inline;
     }
 
     .main{
@@ -131,7 +139,6 @@ article {
     }
     .box{
         display: block;
-        mi
     }
 
 
