@@ -92,6 +92,11 @@ aside{
 footer {
     clear: both;
 }
+
+.toTOP{
+  float: right;
+  text-transform: uppercase;
+}
 /*----------------- article------------*/
  .main {
     width: 65%;
