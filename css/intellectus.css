@@ -115,31 +115,36 @@ article {
 }
 
 .box{
-    width: 25%;
+    width: 30%;
     float: left;
 }
 /*---------------resize ----------------- */
-.moblie{
+.mobile{
   display: none;
 }
+
 @media only screen and (max-width: 600px) {
     aside{
         display: none;
     }
-    .moblie{
+    .mobile{
       display: block;
     }
-    .moblie p{
-       display: inline;
+    .mobile h4{
+        text-align:center;
     }
 
+
     .all{
-        display: block;
         width: 100%;
+         margin: 0px;
+        padding: 0px;
     }
 
     .main{
-        width: 100%;
+        width: 95%;
+        margin: 0px;
+        padding: 0px;
     }
     .box{
         width: 95%;
@@ -156,6 +161,8 @@ article {
     .toTOP{
         float:none;
     }
+
+
 
 
 }
