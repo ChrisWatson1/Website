@@ -166,6 +166,9 @@ article {
     .mobile{
       display: block;
     }
+    .mobile p{
+        font-style:normal;
+    }
     .mobile h4{
         text-align:center;
     }
@@ -197,9 +200,13 @@ article {
     .toTOP{
         float:none;
     }
+
+    body{
+        margin: 0px;
+    }
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1400px) {
     .all{
         padding: 2em;
         margin: 0em auto 1em auto;
@@ -214,7 +221,9 @@ article {
 
 body{
     background-color: whitesmoke;
-    background-image: url("../images/image2.png")
+    background-image: url("../images/image2.png");
+    margin-left: 0px;
+    margin-right:0px;
 
 }
 
