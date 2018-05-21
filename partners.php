@@ -15,7 +15,7 @@
 </p>
 
 <h3>Faster than the speed of business.</h3>
-<p>Find out why Intellectus solutions are the right choice for your business. <a href="contact.php">Contact us</a> to discuss your affordable, easy to deploy Intellectus solution today.</p>
+<p>Find out why Intellectus solutions are the right choice for your business. <a href="#contact">Contact us</a> to discuss your affordable, easy to deploy Intellectus solution today.</p>
 <h3>Intellectus. Your work. Your way.</h3>
 </article>
 				<?php

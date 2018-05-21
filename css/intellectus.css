@@ -104,6 +104,15 @@ article {
     background-color: white;
 }
 
+ .home{
+     width: 95%;
+}
+
+.box{
+    float: left;
+
+}
+
 /* ---------------- basic -----------------*/
 
 body{
