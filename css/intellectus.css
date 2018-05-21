@@ -4,15 +4,20 @@
 
 nav {
     background-color:#848a8c;
+    margin-bottom: 0px;
 }
 
 nav ul {
     padding: 0.25em;
     margin: 0.25em;
+    margin: 0.25em auto;
+
 }
 nav a{
     color: white;
     text-decoration:none;
+    font-size:x-large;
+
 }
 
 nav a:hover{
@@ -22,6 +27,7 @@ nav a:hover{
 nav li {
      display: inline-block;
      list-style-type: none;
+     padding: 0.5em 0.95em;
 }
 
 
@@ -40,9 +46,6 @@ nav li {
     padding: 0px;
 }
 
-.hide, .hover{
-    width: 150px;
-}
 /* Links inside the dropdown */
 .hide a {
     color: black;
@@ -97,7 +100,19 @@ footer {
   float: right;
   text-transform: uppercase;
 }
+
+footer .nav a{
+    font-size: medium;
+}
+
+footer p{
+    font-style:oblique;
+    font-size: small;
+}
 /*----------------- article------------*/
+ .all{
+     margin-top: 0px;
+ }
  .main {
     width: 65%;
     display: inline-block;

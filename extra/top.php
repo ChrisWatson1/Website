@@ -77,6 +77,9 @@ print '<body id="' . $path_parts['filename'] . '">';
 <article class="head">
 <?php
 include 'extra/header.php';
-include 'extra/nav.php';
  ?>
 </article>
+
+<?php
+include 'extra/nav.php';
+?>
