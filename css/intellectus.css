@@ -73,9 +73,10 @@ nav li {
 
 
 /*----------------- aside ------------*/
+/*----------------- aside ------------*/
 aside{
     max-width: 300px;
-    width: 24%;
+    width: 29%;
     display: inline-block;
     margin: 1em;
     margin-left: 0px;
@@ -83,6 +84,21 @@ aside{
     position: absolute;
     background-color: white;
 
+}
+
+aside h4{
+    border-bottom:thick double;
+    margin-bottom: 0px;
+}
+aside ul{
+    border: thin solid;
+    margin-top: 0px;
+    overflow-x: scroll;
+}
+
+
+.heading{
+    font-weight: bold
 }
 
 /*----------------- header ------------*/
@@ -226,7 +242,7 @@ article {
         margin:auto;
     }
     aside{
-      max-width: 400px;
+      max-width: 450px;
     }
 
 }
