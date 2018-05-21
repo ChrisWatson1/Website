@@ -131,7 +131,7 @@ footer p{
     color: blue;
 }
 
-footer ul{
+footer .dropdown{
   width: 85%;
 }
 /*----------------- article------------*/
@@ -224,6 +224,9 @@ article {
     aside+.main{
         width: 95%;
         margin:auto;
+    }
+    aside{
+      max-width: 400px;
     }
 
 }
