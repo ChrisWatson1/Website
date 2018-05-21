@@ -118,7 +118,24 @@ article {
     width: 25%;
     float: left;
 }
+/*---------------resize ----------------- */
+@media only screen and (max-width: 600px) {
+    aside{
+        color: blue;
+        display: block;
+    }
 
+    .main{
+        display: block;
+        width: 100%;
+    }
+    .box{
+        display: block;
+        mi
+    }
+
+
+}
 /* ---------------- basic -----------------*/
 
 body{
