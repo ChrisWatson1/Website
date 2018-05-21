@@ -3,7 +3,7 @@
 <ul class="dropdown">
 
   <li><a href="home.php" <?php if($path_parts['filename'] == "home")
-  { print 'class="sel"';} ?> >About Intellectus</a></li>
+  { print 'class="sel"';} ?> >About</a></li>
 
 
   <li class="hover <?php if( ($path_parts['filename'] == "products") ||  ($path_parts['filename'] == "process-director")
