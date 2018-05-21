@@ -132,6 +132,7 @@ footer p{
 /*----------------- article------------*/
  .all{
      margin-top: 0px;
+     margin :auto;
  }
  .main {
     width: 65%;
@@ -196,20 +197,35 @@ article {
     .toTOP{
         float:none;
     }
+}
 
-
-
+@media only screen and (min-width: 1200px) {
+    .all{
+        padding: 2em;
+        margin: 0em auto 1em auto;
+        border: 5pt double;
+    }
+    body{
+        font-size: 25px;
+    }
 
 }
 /* ---------------- basic -----------------*/
 
 body{
-    max-width: 1000px;
-    margin: auto;
     background-color: whitesmoke;
     background-image: url("../images/image2.png")
 
 }
+
+h2, h3, h4{
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
 p{
     padding: 1em;
     margin: 0.5em;
