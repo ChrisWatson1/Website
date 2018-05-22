@@ -6,7 +6,7 @@
 <article class="main Public-Sector">
 <h2>Public Sector</h2>
 
-<figure> <img alt="" src="images/gov.jpg"> </figure>
+<figure> <img alt="" src="https://media.istockphoto.com/photos/capitol-building-in-washington-picture-id636889720"> </figure>
 <p>Intellectus has saved time and money for a variety of government clients with our electronic content management and business
   process automation solutions. Our government clients are using our products to manage procurement, disaster claims processing,
   retirement benefits, royalties, student records and more.</p>
