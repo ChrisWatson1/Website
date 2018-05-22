@@ -6,7 +6,7 @@
  <article class="main Partners">
 									<h2>Partners</h2>
 
-<figure><img src="https://media.istockphoto.com/photos/optimistic-qualified-man-is-interviewing-lady-picture-id890837688" ></figure>
+<figure><img src="images/partners.jpg" ></figure>
 <h3>Our Partner Network gives us a worldwide reach with a local focus</h3>
 
 <p class='Partner-images'>
