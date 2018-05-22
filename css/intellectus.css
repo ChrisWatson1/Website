@@ -249,8 +249,7 @@ figure{
 @media only screen and (min-width: 1400px) {
     .all{
         padding: 2em;
-        margin: 0em auto 1em auto;
-        border: 5pt double;
+        margin: 0em auto 1.5em auto;
     }
     body{
         font-size: 25px;
@@ -264,6 +263,11 @@ figure{
     }
     .head a{
         font-size: 50pt;
+    }
+
+    .nav a{
+        font-size: 23pt;
+        padding: 1em;
     }
 
 }
