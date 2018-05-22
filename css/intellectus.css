@@ -246,7 +246,7 @@ figure{
     }
 }
 
-@media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 2500px) {
     .all{
         padding: 2em;
         margin: 0em auto 1.5em auto;
