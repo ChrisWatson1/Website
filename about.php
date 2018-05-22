@@ -2,7 +2,7 @@
 
 <h2>About Intellectus</h2>
 
-<figure> <img src="https://media.istockphoto.com/photos/businessman-holding-in-hand-a-global-connectioncommunications-concept-picture-id586934950" alt="" /></figure>
+<figure> <img src="images/about.jpg" alt="" /></figure>
 <h3> Intelligent Business Solutions </h3>
 
 <p> Committed to delivering innovation, Intellectus works with our clients helping them identify areas for reducing operational inefficiencies, drive process improvements, and achieve high performance.  </p>
