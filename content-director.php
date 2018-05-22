@@ -20,7 +20,6 @@
 <h3>Secure and safe, yet available anywhere.</h3>
 <p>Content Director uses XML, SSL and PKI technology to keep all of your stored content secure. Only authorized users may have access to designated cabinets within your content repository. Yet those who have access may retrieve content from any authorized, Internet connected workstation in any location.</p>
 
-<figure><img src="images/intel_contentdirector1.png" alt=""></figure>
 
 <h3>Use Content Director with your existing document library.</h3>
 <p>Already have documents stored electronically? Designed with an open architecture, Content Director can link to your existing document repository. You can harness Content Director’s powerful organization and search features while maintaining your investment in the electronic document repository you already have.</p>
