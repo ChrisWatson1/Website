@@ -71,8 +71,6 @@ nav li {
     display: block;
 }
 
-
-/*----------------- aside ------------*/
 /*----------------- aside ------------*/
 aside{
     max-width: 300px;
@@ -163,7 +161,7 @@ footer .dropdown{
 }
 article {
     padding: 0.5em;
-    margin: 1em 0em;
+    margin: 1em 0em 0e,;
     background-color: white;
 }
 
@@ -175,6 +173,16 @@ article {
     width: 30%;
     float: left;
 }
+
+/* ----------------- img -----------------*/
+img{
+    max-width: 100%;
+}
+
+figure{
+    text-align: center;
+}
+
 /*---------------resize ----------------- */
 .mobile{
   display: none;
@@ -265,6 +273,7 @@ body{
     background-image: url("../images/image2.png");
     margin-left: 0px;
     margin-right:0px;
+    font-family: Georigia;
 
 }
 
@@ -272,9 +281,6 @@ h2, h3, h4{
     text-align: center;
 }
 
-figure{
-    text-align: center;
-}
 
 p{
     padding: 1em;
@@ -291,9 +297,6 @@ li{
 }
 
 
-img{
-    max-width: 100%;
-}
 
 /* Debug
 article {
