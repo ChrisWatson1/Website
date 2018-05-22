@@ -5,7 +5,7 @@
  <article class="all">
 <article class="main products">
 	<h2>Products</h2>
-	<figure><img src="https://media.istockphoto.com/photos/maybe-if-we-try-this-code-picture-id918639608" alt="Intellectus Solutions"> </figure>
+	<figure><img src="images/products.jpg" alt="Intellectus Solutions"> </figure>
 	<h3>Our products. Your way.</h3>
 <p>Cut costs, speed up business processes, track and manage how well your work is done, using Intellectus’ powerful information management and business process management (BPM) solutions.</p>
 <p>Intellectus’ state of the art products incorporate Web services, XML and Xforms, so they are secure, fast and flexible. Service Oriented Architecture (SOA) flexible. Service Oriented</p>
