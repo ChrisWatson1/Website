@@ -89,6 +89,7 @@ aside{
 aside h4{
     border-bottom:thick double;
     margin-bottom: 0px;
+    font-size: larger;
 }
 aside ul{
     border: thin solid;
@@ -178,8 +179,7 @@ article {
 .mobile{
   display: none;
 }
-
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 687px) {
     aside{
         display: none;
     }
@@ -193,9 +193,15 @@ article {
     }
     .mobile h4{
         text-align:center;
+        border-bottom: double;
     }
+    .main{
+        width: 95%;
+    }
+}
 
-
+@media only screen and (max-width: 600px) {
+    
     .all{
         width: 100%;
          margin: 0px;
@@ -203,10 +209,10 @@ article {
     }
 
     .main{
-        width: 95%;
         margin: 0px;
         padding: 0px;
     }
+
     .box{
         width: 95%;
 
@@ -243,6 +249,9 @@ article {
     }
     aside{
       max-width: 450px;
+    }
+    .head a{
+        font-size: 50pt;
     }
 
 }
