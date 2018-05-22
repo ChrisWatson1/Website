@@ -109,6 +109,7 @@ aside ul{
     background-color: whitesmoke;
     text-align: center;
     border-bottom: 5pt double;
+    margin: 2em 0em;
 
 }
  h1 a, h1{
@@ -273,7 +274,7 @@ body{
     background-image: url("../images/image2.png");
     margin-left: 0px;
     margin-right:0px;
-    font-family: Georigia;
+    font-family: Palatino;
 
 }
 
