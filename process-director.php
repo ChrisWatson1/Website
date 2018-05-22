@@ -5,7 +5,7 @@
   <article class="all">
 <article class = "main process-Director">
 			<h2>Process Director</h2>
-			<figure><img  src="images/process2.jpg" alt="Process Director"></figure>
+			<figure><img  src="https://media.istockphoto.com/photos/male-it-specialist-holds-laptop-and-discusses-work-with-female-server-picture-id943067460" alt="Process Director"></figure>
 				<h3> Your Process. Your Way.</h3>
 <p>Process Director adds powerful process automation capabilities to your existing Business Process Management (BPM) system. It lets you maintain your current BPM software investment while leveraging Intellectus’ cutting edge technology. Process Director also offers a rich feature set that facilitates faster, easier, smarter process and transaction automation.</p>
 <p>Use Process Director to automate all kinds of processes, such as purchasing, loan management, employee benefits reconciliation, order processing, and much more. Process Director integrates task routing and tracking into your processes, automatically sending reminders and instructions to each person in the chain. It links mission critical content to action items, and lets you audit the status of any task at any time, even months later. It can integrate process automation into any existing enterprise application and works with any existing content management system.</p>
