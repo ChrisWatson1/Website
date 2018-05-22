@@ -11,7 +11,6 @@
 <p>Use Process Director to automate all kinds of processes, such as purchasing, loan management, employee benefits reconciliation, order processing, and much more. Process Director integrates task routing and tracking into your processes, automatically sending reminders and instructions to each person in the chain. It links mission critical content to action items, and lets you audit the status of any task at any time, even months later. It can integrate process automation into any existing enterprise application and works with any existing content management system.</p>
 
 <h3>Integrate the latest technology.</h3>
-<figure><img  src="images/intel_pro_dir.png" alt="Process Director"></figure>
 <p>Process Director is a core business process engine that has well published APIs and web services which can be customized for your business processes. An open industry-standard development environment based on Microsoft Visual Basic for Applications is used to implement customizations. LDAP stores such as Microsoft Active Directory allow Process Director to integrate smoothly into your existing security infrastructure. Process Director is also Service Oriented Architecture (SOA) aware, and has Oracle and Microsoft SQL support.</p>
 
 <h3>Easy, graphical automation design.</h3>
