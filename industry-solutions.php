@@ -7,7 +7,7 @@
 <h2>Innovative Solutions</h2>
 
 
-	<figure> <img alt="Intellectus Solutions" src="https://media.istockphoto.com/vectors/creating-idea-vector-id163519210"></figure>
+	<figure> <img alt="Intellectus Solutions" src="images/Innovative.jpg"></figure>
 <h3>Intellectus Staffing, Better Business</h3>
 <p>Intellectus provides on and offsite staffing, helping you to achieve your business goals. Whether you are looking for cost reduction, faster speed-to-market or specific industry or technical experience we can help.</p>
 
