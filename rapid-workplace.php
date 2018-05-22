@@ -7,7 +7,7 @@
 
 		<h2>RAPID Workplace</h2>
 
-<figure><img src="images/workplace2.jpg" alt=""></figure>
+<figure><img src="https://media.istockphoto.com/vectors/web-development-vector-id473456596" alt=""></figure>
 
   <h3>Your workflow. Your way.</h3>
 <p>RAPID Workplace encompasses content management and business process automation in a single package to keep all of your business processes running smoothly. Each step in a process, along with all associated content, is automatically routed to the next person responsible. Loans, claims, orders, purchases, requisitions and much more are all completed in record time.</p>
