@@ -190,10 +190,13 @@ article {
         font-style: normal;
         color: black;
         font-size: medium;
+        width: 250px;
+        margin: 0.5em auto;
     }
     .mobile h4{
         text-align:center;
         border-bottom: double;
+        font-size: larger;
     }
     .main{
         width: 95%;
