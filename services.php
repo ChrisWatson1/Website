@@ -2,7 +2,7 @@
 <article class="main services">
 <h2>Services</h2>
 
-<figure><img src="images/workplace.jpg" alt=""></figure>
+<figure><img src="https://media.istockphoto.com/photos/innovation-concept-consultant-in-management-doing-presentation-picture-id502287938" alt=""></figure>
 
 <h3>Intellectus Services &#8211; Business on Demand</h3>
 <p>Committed to delivering innovation, Intellectus works with its clients to help them identify areas for reducing operational inefficiencies, drive process improvements, and achieve high performance. Working in partnership with our clients, Intellectus&#8217; professionals pair strategic acumen with strong execution to achieve their business objectives.</p>
