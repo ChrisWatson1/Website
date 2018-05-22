@@ -6,7 +6,7 @@
  <article class= 'main'>
 									<h2>Content Director</h2>
 
-					<figure><img src="https://media.istockphoto.com/vectors/business-network-vector-id483530847" alt="" ></figure>
+					<figure><img src="https://media.istockphoto.com/vectors/cartoon-business-people-over-puzzle-pieces-vector-id576709620" alt="" ></figure>
 <h3>Your Content. Your Way.</h3>
 <p>Content Director is a flexible, feature rich Electronic Content Management (ECM) solution that allows you to securely store, search for and retrieve all of your business content, using a simple web interface. Content Director is a true thin client: there’s no workstation-based client software to install. Simply send all authorized users the web URL and you’re ready to go.</p>
 
