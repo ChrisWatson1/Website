@@ -17,7 +17,6 @@
 <p>RAPID Workplace is easy to deploy, and scales from the departmental level to the enterprise level. It uses a true zero install thin client without client side software, Active X controls, or web cookies. Install it on your server and you’re done: just send the users the link and they’re ready to work using the browser and email software they already have. Updates to the process server are real time and live, instantly available to all client workstations.
 </p>
 
-<figure> <img src="images/intel_rapid.png" alt=""> </figure>
 
 <h3>Flexible and secure web technology.</h3>
 <p> Although RAPID Workplace is available online through a simple web interface, it is completely secure. It uses LDAP stores such as Microsoft Active Directory to leverage your existing security infrastructure and allow ease of administration. Service Oriented Architecture (SOA) and XML technology add increased security and flexibility. With its open architecture, RAPID Workplace integrates easily with all of your current software, including legacy databases.</p>
