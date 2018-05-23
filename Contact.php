@@ -2,11 +2,9 @@
 	include 'extra/top.php';
  ?>
  <article class="all">
- <article class= 'main'>
-	 
-<aside id ='contact'>
+ <article class= 'contact main'>
 
-<h4>Contact Us</h4>
+<h2>Contact Us</h2>
 <ul>
 	<li class="heading">All Locations</li>
 	<li>International: +1 703 439 1150</li>
