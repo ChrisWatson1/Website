@@ -179,18 +179,16 @@ footer .dropdown{
  }
  .main {
     width: 85%;
-    text-align:left;
+    text-align: justify;
     display: inline-block;
 }
 article {
     padding: 0.5em;
     margin: 1em 0em 0e,;
     background-color: white;
+    text-align: justify;
 }
 
- .home{
-     width: 95%;
-}
 
 .box{
     width: 30%;
