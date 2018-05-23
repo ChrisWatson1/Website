@@ -5,25 +5,29 @@
  <article class= 'contact main'>
 
 <h2>Contact Us</h2>
-<ul>
-	<li class="heading">All Locations</li>
-	<li>International: +1 703 439 1150</li>
-	<li>Fax: 440 425 1160</li>
-	<li>Email: Sales@Intellectus.com</li>
+	<article class="box">
+	<p class="heading">All Locations</p>
+	<p>International: +1 703 439 1150</p>
+	<p>Fax: 440 425 1160</p>
+	<p>Email: Sales@Intellectus.com</p>
+	</article>
+	 
+	<article class="box">
+	<p class="heading">Customer service:</p>
+	<p> Email: HelpDesk@Intellectus.com</p>
+	<p> Phone: 703 439 1160 </p>
+	</article>
+		<article class="box">
+	<p class="heading">Northern Virginia</p>
+	<p>14220 Sullyfield Circle, Suite A</p>
+	<p>Chantilly, VA 20151</p>
+	</article>
+			<article class="box">
+	<p class="heading">Charleston, South Carolina</p>
+	<p>300 Bucksley Lane, Suite 305</p>
+	<p>Charleston, SC 29492</p>
+	</article>
 
-	<li class="heading">Customer service:</li>
-	<li> Email: HelpDesk@Intellectus.com</td>
-	<li> Phone: 703 439 1160 </td>
-
-	<li class="heading">Northern Virginia</li>
-	<li>14220 Sullyfield Circle, Suite A</li>
-	<li>Chantilly, VA 20151</li>
-
-	<li class="heading">Charleston, South Carolina</li>
-	<li>300 Bucksley Lane, Suite 305</li>
-	<li>Charleston, SC 29492</li>
-
-</ul>
 </aside>
 </article>
 </article>
