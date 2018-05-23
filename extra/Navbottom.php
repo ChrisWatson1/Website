@@ -1,7 +1,7 @@
 
         <nav class="nav">
 <ul class="dropdown">
-  <li><a href="home.php">Home</a></li>
+  <li><a href="index.php">Home</a></li>
   <li class="hover"><a href="products.php">Products and Services</a>
     <ul class="hide">
       <li><a href="industry-solutions.php">Innovative Solutions</a></li>
