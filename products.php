@@ -25,7 +25,7 @@ automates and manages any sequence of tasks. Once someone signs off on a step, t
 
 <h3>Intellectus iDesktop </h3>
 <p>Provides a flexible viewing platform for indexing and QC functions   iDesktop&#8217;s multiple panels allows users to process an entire batch of documents at one time, providing a speedy and complete imaging desktop. Like iScan, iDesktop is compatible with both ISIS and TWAIN scanners allowing the deletion and rescan of documents or the addition of missed images or documents to the batch.</p>
-<p>Start using Intellectus’ great product suite and watch your business flow with a new level of productivity and control. <a href="contact.php">Contact us</a> today!</p>
+<p>Start using Intellectus’ great product suite and watch your business flow with a new level of productivity and control. <a href="Contact.php">Contact us</a> today!</p>
 
 <h2>Intellectus. Your work. Your way.</h2>
 <h3>Section 508 Compliance Statement</h3>
