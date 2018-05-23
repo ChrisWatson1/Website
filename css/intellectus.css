@@ -73,6 +73,7 @@ nav li {
 
 /*----------------- aside ------------*/
 aside{
+    /*
     max-width: 300px;
     width: 29%;
     display: inline-block;
@@ -81,9 +82,11 @@ aside{
     padding: 0.25em;
     position: absolute;
     background-color: white;
+    */
+    display: none;
 
 }
-
+/*
 aside h4{
     border-bottom:thick double;
     margin-bottom: 0px;
@@ -99,6 +102,8 @@ aside ul{
 .heading{
     font-weight: bold
 }
+*/
+
 
 /*----------------- header ------------*/
 .head img{
@@ -156,9 +161,8 @@ footer .dropdown{
      margin :auto;
  }
  .main {
-    width: 65%;
+    width: 95%;
     display: inline-block;
-    margin-right: 0px;
 }
 article {
     padding: 0.5em;
