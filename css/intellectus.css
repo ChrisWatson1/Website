@@ -172,9 +172,11 @@ footer .dropdown{
  .all{
      margin-top: 0px;
      margin :auto;
+     text-align:center;
  }
  .main {
-    width: 95%;
+    width: 85%;
+    text-align:left;
     display: inline-block;
 }
 article {
