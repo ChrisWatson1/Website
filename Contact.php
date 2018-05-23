@@ -24,7 +24,7 @@
 	</article>
 			<article class="box">
 	<p class="heading">Charleston, South Carolina</p>
-	<p>300 Bucksley Lane, Suite 305</p>
+	<p>295 Seven Farms, Suite C-297</p>
 	<p>Charleston, SC 29492</p>
 	</article>
 
