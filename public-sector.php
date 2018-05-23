@@ -11,8 +11,6 @@
   process automation solutions. Our government clients are using our products to manage procurement, disaster claims processing,
   retirement benefits, royalties, student records and more.</p>
   </article>
-
-<p>Intellectus is also on the FEMA SETA IDIQ and available for tasks under that contract.</p>
 </article>
 
 <?php
