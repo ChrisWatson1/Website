@@ -1,7 +1,5 @@
 <article class= "main about">
 
-<h2>About Intellectus</h2>
-
 <figure> <img src="images/about.jpg" alt="" /></figure>
 <h3> Intelligent Business Solutions </h3>
 
