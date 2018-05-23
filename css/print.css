@@ -1,0 +1,367 @@
+
+
+/*----------------- nav ------------*/
+
+nav {
+    background-color:#848a8c;
+    margin-bottom: 0px;
+}
+
+nav ul {
+    padding: 0.25em;
+    margin: 0.25em;
+    margin: 0.25em auto;
+
+}
+nav li a{
+    color: white;
+    text-decoration:none;
+    font-size:x-large;
+
+}
+
+.sel {
+    text-decoration:underline;
+    color: white;
+    font-size:x-large;
+}
+
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+nav li {
+     display: inline-block;
+     list-style-type: none;
+     padding: 0.5em 0.6em;
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.hide {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Links inside the dropdown */
+.hide a {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.hide a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.hover:hover .hide{
+    display: block;
+}
+.hover:hover .hide li{
+    display: block;
+}
+
+/*----------------- aside ------------*/
+aside{
+    /*
+    max-width: 300px;
+    width: 29%;
+    display: inline-block;
+    margin: 1em;
+    margin-left: 0px;
+    padding: 0.25em;
+    position: absolute;
+    background-color: white;
+    */
+    display: none;
+
+}
+/*
+aside h4{
+    border-bottom:thick double;
+    margin-bottom: 0px;
+    font-size: larger;
+}
+aside ul{
+    border: thin solid;
+    margin-top: 0px;
+    overflow-x: scroll;
+}
+
+
+.heading{
+    font-weight: bold
+}
+*/
+
+
+/*----------------- header ------------*/
+.head img{
+    display: none;
+}
+.head{
+    padding: 0px;
+    background-color: whitesmoke;
+    text-align: center;
+    border-bottom: 5pt double;
+    margin: 2em 0em;
+
+}
+ h1 a, h1{
+    color: black;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 40px;
+
+}
+
+
+ #top{
+     width: 1000px;
+ }
+
+/*----------------- footer ------------*/
+
+footer {
+    clear: both;
+}
+
+.toTOP{
+  float: right;
+  text-transform: uppercase;
+}
+
+footer .nav a{
+    font-size: medium;
+}
+
+footer p{
+    font-style:oblique;
+    font-size: small;
+    color: blue;
+}
+
+footer .dropdown{
+  width: 85%;
+}
+/*----------------- article------------*/
+ .all{
+     margin-top: 0px;
+     margin :auto;
+ }
+ .main {
+    width: 95%;
+    display: inline-block;
+}
+article {
+    padding: 0.5em;
+    margin: 1em 0em 0e,;
+    background-color: white;
+}
+
+ .home{
+     width: 95%;
+}
+
+.box{
+    width: 30%;
+    float: left;
+}
+
+/* ----------------- img -----------------*/
+img{
+    max-width: 100%;
+    max-height: 500px;
+}
+
+figure{
+    text-align: center;
+}
+
+/*---------------resize ----------------- */
+.mobile{
+  display: none;
+}
+
+/*
+@media only screen and (max-width: 687px) {
+    aside{
+        display: none;
+    }
+    .mobile{
+      display: block;
+    }
+    .mobile p{
+        font-style: normal;
+        color: black;
+        font-size: medium;
+        width: 250px;
+        margin: 0.5em auto;
+    }
+    .mobile h4{
+        text-align:center;
+        border-bottom: double;
+        font-size: larger;
+    }
+    .main{
+        width: 95%;
+    }
+}
+*/
+@media only screen and (max-width: 600px) {
+    
+    .all{
+        width: 100%;
+         margin: 0px;
+        padding: 0px;
+    }
+
+    .main{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .box{
+        width: 95%;
+
+    }
+
+    .nav li{
+        display: block;
+    }
+    .nav{
+        text-align: center;
+    }
+
+    .toTOP{
+        float:none;
+    }
+
+    body{
+        margin: 0px;
+    }
+}
+
+@media only screen and (min-width: 2500px) {
+    .all{
+        padding: 2em;
+        margin: 0em auto 1.5em auto;
+    }
+    body{
+        font-size: 25px;
+    }
+    /*
+    aside+.main{
+        width: 95%;
+        margin:auto;
+    }
+    aside{
+      max-width: 450px;
+    }
+    */
+    
+    .head a{
+        font-size: 50pt;
+    }
+
+    .nav a{
+        font-size: 23pt;
+        padding: 1em;
+    }
+
+}
+/* ---------------- basic -----------------*/
+
+body{
+    background-color: whitesmoke;
+    background-image: url("../images/image2.png");
+    margin-left: 0px;
+    margin-right:0px;
+    font-family: Palatino;
+
+}
+
+h2, h3, h4{
+    text-align: center;
+}
+
+
+p{
+    padding: 1em;
+    margin: 0.5em;
+}
+
+ul{
+    padding: 0.5em;
+}
+
+li{
+    padding: 0.5em;
+    list-style-type: none;
+}
+
+
+
+/* Debug
+article {
+    border: solid thick green;
+}
+
+p{
+   border: solid thick blue;
+}
+
+ul{
+    border: solid thick purple;
+}
+
+li{
+    border: solid thick pink;
+}
+
+div{
+    border: solid thick red;
+}
+
+img{
+    border: solid thick orange;
+}
+
+form{
+    border: solid thick yellow;
+
+}
+
+aside{
+  border: solid thick teal;
+}
+*/
+
+/* print */
+
+img{
+display: none;
+}
+
+.nav{
+display: none;
+}
+
+footer{
+display: none;
+}
+
+.head{
+display: none;
+}
