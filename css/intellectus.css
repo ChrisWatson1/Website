@@ -193,6 +193,8 @@ figure{
 .mobile{
   display: none;
 }
+
+/*
 @media only screen and (max-width: 687px) {
     aside{
         display: none;
@@ -216,7 +218,7 @@ figure{
         width: 95%;
     }
 }
-
+*/
 @media only screen and (max-width: 600px) {
     
     .all{
@@ -259,6 +261,7 @@ figure{
     body{
         font-size: 25px;
     }
+    /*
     aside+.main{
         width: 95%;
         margin:auto;
@@ -266,6 +269,8 @@ figure{
     aside{
       max-width: 450px;
     }
+    */
+    
     .head a{
         font-size: 50pt;
     }
