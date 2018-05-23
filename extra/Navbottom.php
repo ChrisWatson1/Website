@@ -12,6 +12,7 @@
   </li>
   <li><a href="public-sector.php">Public Sector</a></li>
   <li><a href="partners.php">Partners</a></li>
+  <li><a> href="Contact.php">Contact</a></li>
   <li class='toTOP'><a href="#top">Go To Top </a></li>
 
 </ul>
