@@ -111,12 +111,15 @@ aside ul{
     margin-top: 2em;
 }
 
-#Contact .main ul{
-    max-width: 250px;
-    margin: auto;
+#Contact .box{
+    max-width: 300px;
+    text-align: left;
 }
 
-
+#Contact .main{
+    text-align: center;
+    width: 75%;
+}
 
 /*----------------- header ------------*/
 .head img{
