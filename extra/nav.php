@@ -28,8 +28,6 @@
   <li><a href="public-sector.php" <?php if($path_parts['filename'] == "public-sector")
   { print 'class="sel"';}?> >Public Sector</a></li>
 
-  <li><a href="partners.php" <?php if($path_parts['filename'] == "partners")
-  { print 'class="sel"';}?> >Partners</a></li>
    
   <li><a href="Contact.php" <?php if($path_parts['filename'] == "Contact")
   { print 'class="sel"';}?> >Contact</a></li>
