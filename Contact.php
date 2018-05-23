@@ -1,4 +1,9 @@
-
+<?php
+	include 'extra/top.php';
+ ?>
+ <article class="all">
+ <article class= 'main'>
+	 
 <aside id ='contact'>
 
 <h4>Contact Us</h4>
@@ -22,3 +27,8 @@
 
 </ul>
 </aside>
+</article>
+</article>
+<?php
+	include 'extra/footer.php';
+ ?>
