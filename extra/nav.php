@@ -2,7 +2,7 @@
         <nav class="nav">
 <ul class="dropdown">
 
-  <li><a href="home.php" <?php if($path_parts['filename'] == "home")
+  <li><a href="index.php" <?php if($path_parts['filename'] == "index")
   { print 'class="sel"';} ?> >Home</a></li>
 
 
