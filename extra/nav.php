@@ -30,6 +30,9 @@
 
   <li><a href="partners.php" <?php if($path_parts['filename'] == "partners")
   { print 'class="sel"';}?> >Partners</a></li>
+   
+  <li><a href="Contact.php" <?php if($path_parts['filename'] == "Contact")
+  { print 'class="sel"';}?> >Contact</a></li>
 
 </ul>
 </nav>
