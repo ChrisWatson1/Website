@@ -5,7 +5,7 @@
  <article class= 'contact main'>
 
 <h2>Contact Us</h2>
-	 <figure><img src="contact.jpg" alt="" ></figure>
+	 <figure><img src="images/contact.jpg" alt="" ></figure>
 	<article class="box">
 	<p class="heading">All Locations</p>
 	<p>International: +1 703 439 1150</p>
