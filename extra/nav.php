@@ -11,6 +11,9 @@
   {print ' sel';  }?>"> <a href="products.php">Products and Services</a>
 
     <ul class="hide">
+       <li><a href="industry-solutions.php" <?php if($path_parts['filename'] == "industry-solutions")
+      {  print ' class ="sel"';}?> >Innovative Solutions</a></li>
+            
       <li><a href="process-director.php" <?php if($path_parts['filename'] == "process-director")
       { print ' class ="sel"';}?> >Process Director</a></li>
 
@@ -20,8 +23,7 @@
       <li><a href="content-director.php" <?php if($path_parts['filename'] == "contact-director")
       { print ' class ="sel"';}?> >Content Director</a></li>
 
-      <li><a href="industry-solutions.php" <?php if($path_parts['filename'] == "industry-solutions")
-      {  print ' class ="sel"';}?> >Innovative Solutions</a></li>
+      
     </ul>
   </li>
 
