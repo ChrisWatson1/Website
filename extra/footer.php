@@ -5,7 +5,7 @@
   include 'extra/Navbottom.php';
    ?>
 
-  <p> site created by zoe watson © 2011 Intellectus </p>
+  <p> site created by zoe watson © 2018 Intellectus </p>
 
   <article class="mobile">
     <h4>Contact Us</h4>
