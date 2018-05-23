@@ -26,7 +26,7 @@ $path_parts = pathinfo($phpSelf);
   if ($path_parts['filename'] == "about")
   { print 'About Intellectus';
 
-  }elseif($path_parts['filename'] == "contact")
+  }elseif($path_parts['filename'] == "Contact")
   { print 'Contact';
 
   }elseif($path_parts['filename'] == "contact-director")
